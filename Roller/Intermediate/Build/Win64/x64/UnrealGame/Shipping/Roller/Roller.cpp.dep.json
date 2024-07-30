@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\game dev\\unreal engine 5 projects\\roller\\roller\\source\\roller\\roller.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\game dev\\unreal engine 5 projects\\roller\\roller\\intermediate\\build\\win64\\x64\\roller\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\game dev\\unreal engine 5 projects\\roller\\roller\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\roller\\definitions.roller.h",
+            "c:\\game dev\\unreal engine 5 projects\\roller\\roller\\source\\roller\\roller.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
